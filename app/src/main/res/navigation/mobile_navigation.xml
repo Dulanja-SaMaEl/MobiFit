@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/admin_nav_home">
+
+    <fragment
+        android:id="@+id/admin_nav_home"
+        android:name="lk.graynode.mobifit.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_schedules"
+        android:name="lk.graynode.mobifit.ui.schedules.SchedulesFragment"
+        android:label="@string/menu_schedules"
+        tools:layout="@layout/fragment_schedules" />
+
+    <fragment
+        android:id="@+id/nav_buyitems"
+        android:name="lk.graynode.mobifit.ui.buyitems.BuyItemsFragment"
+        android:label="@string/menu_buy_items"
+        tools:layout="@layout/fragment_buyitems" />
+    <fragment
+        android:id="@+id/nav_trackorders"
+        android:name="lk.graynode.mobifit.ui.trackoders.TrackOrdersFragment"
+        android:label="@string/menu_track_orders" />
+    <fragment
+        android:id="@+id/nav_user"
+        android:name="lk.graynode.mobifit.ui.user.UserFragment"
+        android:label="@string/menu_user" />
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="lk.graynode.mobifit.ui.cart.CartFragment"
+        android:label="@string/menu_cart" />
+</navigation>

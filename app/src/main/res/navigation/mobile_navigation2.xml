@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/admin_nav_home">
+
+    <fragment
+        android:id="@+id/admin_nav_home"
+        android:name="lk.graynode.mobifit.admin.ui.admin_home.AdminHomeFragment"
+        android:label="@string/admin_menu_home"
+        tools:layout="@layout/fragment_admin_home" />
+
+    <fragment
+        android:id="@+id/admin_nav_order"
+        android:name="lk.graynode.mobifit.admin.ui.admin_order.AdminOrderFragment"
+        android:label="@string/admin_menu_order"
+        tools:layout="@layout/fragment_admin_order" />
+
+    <fragment
+        android:id="@+id/admin_nav_schedules"
+        android:name="lk.graynode.mobifit.admin.ui.admin_schedules.AdminSchedulesFragment"
+        android:label="@string/admin_menu_schedules"
+        tools:layout="@layout/fragment_admin_schedules" />
+</navigation>

@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">MobiFit</string>
+    <string name="app_link">mobifit.com</string>
+    <string name="loginText1">Login</string>
+    <string name="loginText2">Email</string>
+    <string name="loginText3">Password</string>
+    <string name="loginText4">Don\'t have any account? Sign Up</string>
+    <string name="loginText5">dulanja150abeysinghe@gmail.com</string>
+    <string name="loginText6">●●●●●●●●</string>
+    <string name="loginText7">Admin</string>
+    <string name="signUpText1">Sign Up</string>
+    <string name="signUpText2">First Name</string>
+    <string name="signUpText3">Dulanja</string>
+    <string name="signUpText4">Last Name</string>
+    <string name="signUpText5">Abeysinghe</string>
+    <string name="signUpText6">Confirm Password</string>
+    <string name="signUpText7">Already Have Any Account? Sign In</string>
+    <string name="adminLoginText1">Admin Login</string>
+    <string name="adminLoginText2">Not A Admin? User Sign In</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_schedules">Schedules</string>
+    <string name="menu_buy_items">Buy Items</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_track_orders">Track Orders</string>
+    <string name="menu_user">User</string>
+
+    <string name="admin_menu_home">Home</string>
+    <string name="admin_menu_order">Orders</string>
+    <string name="admin_menu_schedules">Schedules</string>
+
+    <string name="user_text1">User Details</string>
+    <string name="user_text2">Address</string>
+    <string name="user_text3">Mobile</string>
+    <string name="user_text4">Password</string>
+    <string name="user_text5">Your Address , Sigera Road, Kotte</string>
+    <string name="user_text6">0765917189</string>
+    <string name="user_text7">Height(CM)</string>
+    <string name="user_text8">Weight(KG)</string>
+    <string name="user_text9">56KG</string>
+    <string name="user_text10">180CM</string>
+    <string name="user_btn1">Update Data</string>
+
+
+    <string name="product_item_view_text1">Select Quantity</string>
+    <string name="product_item_view_text2">1</string>
+    <string name="product_item_view_text3">+</string>
+    <string name="product_item_view_text4">-</string>
+    <string name="product_item_view_text5">Add To Cart</string>
+
+
+    <string name="cart_text1">Checkout</string>
+
+    <string name="order_text1">Order Id :</string>
+    <string name="order_text2">Call</string>
+    <string name="order_text3">Text</string>
+    <string name="order_text4">Track</string>
+
+    <string name="home_text1">WELCOME BACK</string>
+    <string name="home_text2">STEPS</string>
+    <string name="home_text3">CAL BURN</string>
+    <string name="home_text4">BMI</string>
+    <string name="home_text5">CALORIES</string>
+    <string name="home_text6">WEEKLY AVERAGE</string>
+    <string name="home_text7">FEATURED PRODUCTS</string>
+    <string name="home_text8">View Item</string>
+
+
+    <string name="data_collect_text1">What\'s Your Height ?</string>
+    <string name="data_collect_text2">What\'s Your Weight ?</string>
+    <string name="title_activity_admin_main">AdminMainActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <!-- Admin Texts -->
+    <string name="admin_home_text1">WELCOME BACK ADMIN</string>
+    <string name="admin_home_text2">Product Title</string>
+    <string name="admin_home_text3">This is product title</string>
+    <string name="admin_home_text4">Product Description</string>
+    <string name="admin_home_text5">This is product description</string>
+    <string name="admin_home_text6">Product Price</string>
+    <string name="admin_home_text7">Rs.1000</string>
+    <string name="admin_home_text8">Product Quantity</string>
+    <string name="admin_home_text9">10</string>
+    <string name="admin_home_text10">Product Url </string>
+    <string name="admin_home_text11">drive.com</string>
+    <string name="admin_home_text12">Add Product</string>
+
+    <string name="admin_home_text13">Product Id</string>
+    <string name="admin_home_text14">1</string>
+    <string name="admin_home_text15">Update Product</string>
+
+    <string name="admin_home_text16">Delete Product</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="admin_schedule_text1">Schedule Id</string>
+    <string name="admin_schedule_text2">Schedule Title</string>
+    <string name="admin_schedule_text3">Schedule Description</string>
+    <string name="admin_schedule_text4">Schedule Day</string>
+    <string name="admin_schedule_text5">Add Schedule </string>
+    <string name="admin_schedule_text6">1</string>
+    <string name="admin_schedule_text7">This is schedule title</string>
+    <string name="admin_schedule_text8">This is schedule description</string>
+    <string name="admin_schedule_text9">Day 1</string>
+    <string name="admin_schedule_text10">Update Schedule</string>
+    <string name="admin_schedule_text11">Delete Schedule</string>
+
+    <string name="admin_Order_text1">New Location </string>
+    <string name="admin_Order_text2">Update Location</string>
+    <string name="admin_Order_text3">Address</string>
+
+
+    <string name="forgetPassword_text1">Forget Password ?</string>
+    <string name="buyitems_text1">Search Here</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626078886363",
+    "project_id": "mobifit-97bfe",
+    "storage_bucket": "mobifit-97bfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626078886363:android:3dad3d5a8b213a95ce1ffe",
+        "android_client_info": {
+          "package_name": "lk.graynode.mobifit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONsPCHLGEibCRHAHFdkM4a4QMyWnls1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
